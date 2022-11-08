@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 :mag: I am a curious and :bulb: creative person, always ready to learn :books:.
 
-I also enyoy the art :art:, movies :clapper: and good music 📻.
+I also enyoy the art :art:, football :clapper: and good music 📻.
 
 ### Technologies
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -27,6 +27,8 @@ I also enyoy the art :art:, movies :clapper: and good music 📻.
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![PHP]()
+![Java}()
 
 ### Tools
 ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
