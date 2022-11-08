@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 💻 I am a Graphic Designer and Web Designer from Zambia 🇨🇴 who is a Student for Bsc Software Engineering, a Qualified Medical Assistant, Skilled Graphics designer and Photographer.
 
-:mag: I am a curious and :bulb: creative person, always ready to learn :books:.
+:mag: I am a curious, adventurer and :bulb: creative person full of initiative, always ready to learn :books:.
 
 I also enyoy the art :art:, football :clapper: and good music 📻.
 
@@ -31,6 +31,7 @@ I also enyoy the art :art:, football :clapper: and good music 📻.
 ![Java](https://img.shields.io/badge/java-%23E34F26.svg?style=for-the-badge&logo=java&logoColor=white)
 
 ### Tools
+![Adobe Lightroom](https://img.shields.io/badge/lightroom-%2331A8FF.svg?style=for-the-badge&logo=lightroom&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=white)
