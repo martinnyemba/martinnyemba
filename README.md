@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-💻 I am a Graphic Designer and Web Designer from Zambia 🇨🇴 who is a Student for Bsc Software Engineering, a Qualified Medical Assistant, Skilled Graphics designer and Photographer.
+💻 I am a Graphic Designer and Web Designer from Zambia zm who is a Student for Bsc Software Engineering, a Qualified Medical Assistant, Skilled Graphics designer and Photographer.
 
 :mag: I am a curious, adventurer and :bulb: creative person full of initiative, always ready to learn :books:.
 
