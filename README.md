@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Martin Nyemba!
+## Hi there 👋 I'm Martin Nyemba!
 
 <!--
 **martinnyemba/martinnyemba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,13 +21,13 @@ As a curious lifelong learner, I am constantly seeking new skills and knowledge 
 
 I am excited to bring my diverse background and interdisciplinary skills to build user-centric applications. If you have an opportunity that matches my experience, please reach out! I am eager to join a collaborative team where I can both contribute my skills and learn from talented peers. Together, we can build software that makes a difference. 
 
-## Key Skills
+### Key Skills
 
-- Programming: Python, JavaScript, Java, C++
+- Programming: Python, JavaScript, SQL Programming, C, Linux Shell
 - Web Development: HTML, CSS, React  
-- Design: Adobe Creative Suite, Figma
+- Design: Adobe Creative Suite, Bootstrap Studio
 - Communication: Technical Writing, Presentations
-- Languages: English, French, Bemba
+- Languages: English, Bemba
 
 :mag: I am a curious, adventurer and :bulb: creative person full of initiative, always ready to learn :books:.
 
@@ -43,16 +43,20 @@ I am excited to bring my diverse background and interdisciplinary skills to buil
 
 ### Tools
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Adobe Lightroom](https://img.shields.io/badge/lightroom-%2331A8FF.svg?style=for-the-badge&logo=lightroom&logoColor=white)
-
 ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) 
-
-![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-
 ![Adobe PremierPro](https://img.shields.io/badge/Adobe%20PremierPro-49021F?style=for-the-badge&logo=adobepremierpro&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Adobe Lightroom](https://img.shields.io/badge/lightroom-%2331A8FF.svg?style=for-the-badge&logo=lightroom&logoColor=white)
 
 ### Statistics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinnyemba&layout=compact&theme=bear" height="165" />
   <img src="https://github-readme-stats.vercel.app/api?username=martinnyemba&show_icons=true&theme=bear" width="415"/>
  </p>
+
+### Contact Info 
+
+- Email: [martinnyemba@gmail.com](mailto:martinnyemba@gmail.com)
+- Phone: [+260976799292]
+- LinkedIn: [https://www.linkedin.com/in/martin-nyemba-chikaya/]
+- GitHub: [https://github.com/martinnyemba/]
