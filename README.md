@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-💻 I am a Web Designer from Zambia who is a Student for Bsc Software Engineering, a Qualified Medical Assistant, Skilled Graphics designer and Photographer.
+💻 I am a passionate Full Stack Software Engineer from Zambia studying Bsc Software Engineering, a Qualified Clinical Officer General and love for Graphics designing and Photography.
 
 :mag: I am a curious, adventurer and :bulb: creative person full of initiative, always ready to learn :books:.
 
@@ -28,7 +28,9 @@ I also enyoy the art :art:, football :clapper: and good music 📻.
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23563D7C.svg?style=for-the-badge&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23E34F26.svg?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Tools
 ![Adobe Lightroom](https://img.shields.io/badge/lightroom-%2331A8FF.svg?style=for-the-badge&logo=lightroom&logoColor=white)
