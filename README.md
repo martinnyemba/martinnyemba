@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-💻 I am an aspiring full stack software engineer pursuing a BSc in Software Engineering in Zambia. In addition to my studies, I am a licensed Clinical Officer General bringing compassionate care experience. With a lifelong passion for technology and creativity, I enjoy developing solutions that combine innovative design and programming.
+💻 I am a full stack software engineer pursuing a BSc in Software Engineering in Zambia. Currently a licensed Clinical Officer General bringing compassionate care experience. With a lifelong passion for technology and creativity, I enjoy developing solutions that combine innovative design and programming.
 
 As a curious lifelong learner, I am constantly seeking new skills and knowledge to expand my capabilities. I have a particular interest in specializing in Backend development and UI/UX design. In my free time, I enjoy being active through football and appreciating art, film, and music.
 
@@ -56,7 +56,7 @@ I am excited to bring my diverse background and interdisciplinary skills to buil
 
 ### Contact Info 
 
-- Email: [martinnyemba@gmail.com](mailto:martinnyemba@gmail.com)
-- Phone: [+260976799292]
-- LinkedIn: [https://www.linkedin.com/in/martin-nyemba-chikaya/]
-- GitHub: [https://github.com/martinnyemba/]
+- Email: [Matin Nyemba](mailto:martinnyemba@gmail.com)
+- Phone: [Number](tel:260976799292)
+- LinkedIn: [martin-nyemba-chikaya](https://www.linkedin.com/in/martin-nyemba-chikaya/)
+- GitHub: [martinnyemba](https://github.com/martinnyemba/)
