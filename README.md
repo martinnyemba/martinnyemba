@@ -42,11 +42,15 @@ I am excited to bring my diverse background and interdisciplinary skills to buil
 ![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Tools
+![Bootstrap Studio](https://img.shields.io/badge/Bootstrap_Studio-%23563D7C.svg?style=for-the-badge&logo=bootstrap-studio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Vim](https://img.shields.io/badge/Vim-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) 
 ![Adobe PremierPro](https://img.shields.io/badge/Adobe%20PremierPro-49021F?style=for-the-badge&logo=adobepremierpro&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Adobe Lightroom](https://img.shields.io/badge/lightroom-%2331A8FF.svg?style=for-the-badge&logo=lightroom&logoColor=white)
 
 ### Statistics
 <p align="center">
