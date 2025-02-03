@@ -4,34 +4,38 @@
 
 ### 👨‍💻 About Me
 
-I'm a passionate Software Engineering student from Zambia with a unique background as a licensed Clinical Officer General. This combination of healthcare experience and technical expertise allows me to bring a compassionate, human-centered approach to software development.
+I'm a passionate Full stack Software Engineer with specialization in Backend development from Zambia with a unique background as a licensed Clinical Officer General. This combination of healthcare experience and technical expertise allows me to bring a compassionate, human-centered approach to software development.
 
-- 🎓 Pursuing BSc in Software Engineering
+- 🎓 Bachelor of Information and Communications Technology in Software Engineering
+- ALX Africa graduate 🎓 
 - 🏥 Licensed Clinical Officer General
 - 🌱 Currently focusing on Backend Development and UI/UX Design
-- 🎨 Passionate about creative coding and innovative solutions
+- 🎨 Passionate about learning, creative coding and innovative solutions
 - ⚡ Fun fact: I blend healthcare insights with tech solutions!
 
 ### 🛠️ Technical Skills
 
 #### Languages
 ```
-Frontend: HTML5 | CSS3 | JavaScript | React
-Backend: Python | PHP | SQL | C
+Frontend: Next.js with React | HTML5 | CSS3 | JavaScript ES6 | Typescript
+Backend: Python | Express.js with Node js| SQL | C
 Shell: Linux/Bash
+Databases: MySQL| Mongo DB| Postgres SQL
+ORM: SQLAlchemy | Prisma | Mongoose 
 ```
 
 #### Development Tools & Platforms
 ```
-Editors: VS Code | Vim
+Editors: VS Code | Vim | Pycharm
 Containerization: Docker
-Version Control: Git
+Version Control: Git and GitHub 
 Design: Adobe Creative Suite | Bootstrap Studio | Canva
 ```
 
 ### 💼 Professional Skills
 
 - 🏗️ Full Stack Development
+- 😁 Backend specialization 
 - 🎨 UI/UX Design
 - 📊 Database Management
 - 📝 Technical Writing
@@ -54,6 +58,11 @@ Design: Adobe Creative Suite | Bootstrap Studio | Canva
 ![PHP](https://img.shields.io/badge/php-%23563D7C.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
+![NextJS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![NoSQL with MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
 
 ### 🔧 Tools & Software
 
