@@ -1,6 +1,6 @@
 # Hi there, I'm Martin Nyemba! 👋
 
-> Full Stack Software Engineer | Clinical Officer | Creative Developer
+> Full Stack Software Engineer | ICT OFficer | Clinical Officer | AI Trainer
 
 ### 👨‍💻 About Me
 
@@ -9,7 +9,7 @@ I'm a passionate Full stack Software Engineer with specialization in Backend dev
 - 🎓 Bachelor of Information and Communications Technology in Software Engineering
 - ALX Africa graduate 🎓 
 - 🏥 Licensed Clinical Officer General
-- 🌱 Currently focusing on Backend Development and UI/UX Design
+- 🌱 Currently focusing on Backend Development, Data Science and UI/UX Design
 - 🎨 Passionate about learning, creative coding and innovative solutions
 - ⚡ Fun fact: I blend healthcare insights with tech solutions!
 
